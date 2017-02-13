@@ -1,2 +1,3 @@
 # hello-world
-Hellow world setup instructions for GitHub
+Hello world setup instructions for GitHub
+This is a test of a branch
